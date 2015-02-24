@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="comport_listesi">
+        <item>COM1</item>
+        <item>COM2</item>
+        <item>COM3</item>
+        <item>COM4</item>
+        <item>COM5</item>
+        <item>COM6</item>
+        <item>COM7</item>
+        <item>COM8</item>
+        <item>COM9</item>
+        <item>COM10</item>
+    </string-array>
+
+    <string-array name="comport_listesi_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+
+</resources>

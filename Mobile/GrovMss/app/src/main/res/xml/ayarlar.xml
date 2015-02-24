@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:key="ayarlar">
+
+    <PreferenceCategory
+        android:title="@string/pref_web_servisi_category">
+
+        <EditTextPreference
+            android:key="PREF_WEBSERVISI_URL"
+            android:title="@string/pref_web_servisi_url_title"
+            android:icon="@drawable/ic_action_web_site"
+            android:defaultValue="http://"/>
+        <EditTextPreference
+            android:key="PREF_WEBSERVISI_PORT_NO"
+            android:title="@string/pref_web_servisi_port_title"
+            android:defaultValue="5001"/>
+        <CheckBoxPreference
+            android:key="PREF_ONLINE"
+            android:title="@string/pref_web_servisi_Online_title"
+            android:defaultValue="true"/>
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="@string/pref_yazici_ayarlari_category">
+
+        <ListPreference
+            android:key="PREF_YAZICI_COM_PORT"
+            android:title="@string/pref_yazici_ayarlari_comport_title"
+            android:summary="@string/pref_yazici_ayarlari_comport_summary"
+            android:icon="@drawable/bluetooth_settings"
+            android:dialogTitle="@string/pref_yazici_ayarlari_comport_listesi_title"
+            android:entries="@array/comport_listesi"
+            android:entryValues="@array/comport_listesi_values"
+
+            />
+
+    </PreferenceCategory>
+
+
+
+</PreferenceScreen> 

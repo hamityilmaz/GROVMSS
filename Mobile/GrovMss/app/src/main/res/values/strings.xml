@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GrovMss</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="ayarlar_menu">Ayarlar</string>
+
+    <string name="login_kullanici_bos_olamaz">Kullanıcı Boş Olamaz !</string>
+    <string name="login_sifre_az_olamaz">Şifre 6 Karakterden Az Olamaz !</string>
+    <string name="login_sifre_bos_olamaz">Şifre Boş Olamaz !</string>
+    <string name="login_kisi_bilgileri_getiriliyor">Kişi Bilgileri Getiriliyor...</string>
+
+    <string name="hata">Hata</string>
+    <string name="Tamam">Tamam</string>
+</resources>

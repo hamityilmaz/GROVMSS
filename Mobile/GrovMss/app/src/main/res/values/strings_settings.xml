@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pref_web_servisi_category">WEB SERVİSİ</string>
+    <string name="pref_web_servisi_title">Web Servisi</string>
+    <string name="pref_web_servisi_summary">Web Servisi ile ilgili ayarlar</string>
+    <string name="pref_web_servisi_url_title">Web Servisi Url</string>
+    <string name="pref_web_servisi_port_title">Web Servisi Port No</string>
+    <string name="pref_web_servisi_Online_title">Online</string>
+
+    <string name="pref_yazici_ayarlari_category">YAZICI AYARLARI</string>
+    <string name="pref_yazici_ayarlari_title">Yazıcı Ayarları</string>
+    <string name="pref_yazici_ayarlari_summary">Yazıcı Bluetooth Ayarları</string>
+    <string name="pref_yazici_ayarlari_comport_title">Com Port</string>
+    <string name="pref_yazici_ayarlari_comport_summary">Yazının İletişim Com Port Adını Seçiniz</string>
+    <string name="pref_yazici_ayarlari_comport_listesi_title">Com Port Listesi</string>
+
+</resources>
